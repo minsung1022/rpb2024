@@ -21,8 +21,6 @@ def main():
     
     print("%d / %d = %0.3f" % (x, y, divide(x, y)))    
 
-# TODO: add() 함수 정의
-
 
 if __name__ == "__main__":
     main()
